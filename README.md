@@ -2,7 +2,7 @@
 
 #### Paradigma Hackerspace (nome provisório): Declaração de princípios
 
-> "Você quer tornar impossível para alguém oprimir outrém? Então certifique-se de que ninguém possua o poder - Michael Bakunin"
+> "Você quer tornar impossível para alguém oprimir outrém? Então certifique-se de que ninguém possua o poder" - Michael Bakunin
 
 <br/>
 
