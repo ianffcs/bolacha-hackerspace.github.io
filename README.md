@@ -4,6 +4,8 @@
 
 > "Você quer tornar impossível para alguém oprimir outrém? Então certifique-se de que ninguém possua o poder - Michael Bakunin"
 
+<br/>
+
 ##
 
 Este documento destina-se à explicar as razões pelas quais a comunidade do Paradigma Hackerspace foi fundada, ao explicitar sua necessidade, finalidade, e tão logo, os princípios pelos quais temos em vista atingir nossos objetivos. Não cabe aqui entrarmos em maiores detalhes na maneira como estes princípios irão de fato informar a conduta desta comunidade. Antes de mais nada, neste documento procuramos transmitir uma ideia sólida quanto às formas que esta comunidade *não* tomará pela sua aderência à estes.
