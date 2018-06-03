@@ -1,9 +1,10 @@
 <img src="icon.svg" align="left" width="144px" height="144px"/>
 
-#### Paradigma Hackerspace: Declaração de princípios
+#### Paradigma Hackerspace (nome provisório): Declaração de princípios
 
-> "Você quer tornar impossível para alguém oprimir outrém? Então certifique-se de que ninguém possua o poder."
-> - Michael Bakunin
+> "Você quer tornar impossível para alguém oprimir outrém? Então certifique-se de que ninguém possua o poder <br/>- Michael Bakunin"
+
+##
 
 Este documento destina-se à explicar as razões pelas quais a comunidade do Paradigma Hackerspace foi fundada, ao explicitar sua necessidade, finalidade, e tão logo, os princípios pelos quais temos em vista atingir nossos objetivos. Não cabe aqui entrarmos em maiores detalhes na maneira como estes princípios irão de fato informar a conduta desta comunidade. Antes de mais nada, neste documento procuramos transmitir uma ideia sólida quanto às formas que esta comunidade *não* tomará pela sua aderência à estes.
 
@@ -19,14 +20,14 @@ Buscamos incentivar práticas tais, que desenvolvem a autonomia, a iniciativa, a
 
 Então, para dar continuidade a isto, nossa comunidade está construindo um ambiente onde pessoas possam hackear, compartilhar do conhecimento obtido e das ferramentas utilizadas com todos os demais: um *hackerspace*. Este, diretamente inspirados por outros hackerspaces ao redor do mundo, como o Noisebridge, em São Francisco, tem em sua estrutura construida em torno de principios que promovem a participação. Estes são:
 
-- Inclusão
+### Inclusão
 
 Todos os participantes do nosso hackerspace participam nele em condição de igualdade. Isso é, perfeita reciprocidade na ação e conduta com relação aos demais, dadas circunstâncias similares. Qualquer coisa menos que isso necessita ser aprimorada, não podemos tolerar discriminações de qualquer espécie. Ao restringimos a participação de alguns pelos nossos atos, privamos a todos de conceber o mundo em sua complexidade e completude, e tão logo, nos privando de alcançar soluções aplicáveis ao mundo real.
 
-- Consenso
+### Consenso
 
 Ninguém deverá participar em uma ação da qual não concorda. Não buscamos compor um grupo coeso pela via da imposição e do conformismo, mas sim, da integração e da iniciativa. Grupos distintos podem se organizar livremente, realizar decisões e ações conjuntas ou distintas e ainda co-existir. Quando isso não for possível, uma solução intermediária, construida com a participação de todos os envolvidos deve ser buscada. Isso não quer dizer, entretanto, que nos associaremos à qualquer pessoa ou cooperaremos com qualquer ação. Ao nos confrontarmos com indivíduos e ações que se contrapõem ao nosso objetivo de promover a inclusão sob a condição da igualdade, nos reservamos o direito de não nos associarmos com ele ou, este já estando associado conosco, de maneira respeitosa e equilibrada, rompermos nossas relações.
 
-- Livre iniciativa
+### Livre iniciativa
 
 É proibido proibir. Não iremos instituir qualquer espécie de sanção, todos são livres para fazerem o que bem entender, assim como responderem por suas ações como indivíduos autônomos. O normal há de ser experimentar, pensar e agir por conta própria. A excessão, a restrição em comum acordo. Assim, à todos torna-se imediatamente acessível a aplicação e o desenvolvimento do senso crítico e da razão prática.
